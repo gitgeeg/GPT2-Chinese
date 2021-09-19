@@ -16,7 +16,10 @@
 ## UPDATE 11.03.2020
 
 - 本项目新增了[古诗词GPT-2预训练模型](https://github.com/Morizeyao/GPT2-Chinese#%E6%A8%A1%E5%9E%8B%E5%88%86%E4%BA%AB)和[对联GPT-2预训练模型](https://github.com/Morizeyao/GPT2-Chinese#%E6%A8%A1%E5%9E%8B%E5%88%86%E4%BA%AB)。模型由UER-py项目训练得到，欢迎大家使用。
-此外，模型上传到了Huggingface Model Hub中。更多模型的细节请参考[gpt2-chinese-poem](https://huggingface.co/uer/gpt2-chinese-poem)和[gpt2-chinese-couplet](https://huggingface.co/uer/gpt2-chinese-couplet)。
+此外，模型上传到了Huggingface Model Hub中。更多模型的细节请参考[gpt2-chinese-poem](https://huggingface.co/uer/gpt2-chinese-poem)和[gpt2-chinese-couplet](https://huggingface
+
+
+.co/uer/gpt2-chinese-couplet)。
   
   在使用古诗词模型进行生成时，需要在输入的文本前加入一个起始符，如：若要输入“梅山如积翠，”，正确的格式为“[CLS]梅山如积翠，”。
   
